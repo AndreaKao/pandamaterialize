@@ -1,0 +1,102 @@
+.panda-uno {
+	object-fit: cover;
+		filter: grayscale(100%);
+		padding-right: 0
+		-webkit-filter: grayscale(100%);
+		filter: grayscale(100%);
+}
+
+.panda-uno:hover {
+	filter: grayscale(0%);
+	-webkit-filter: grayscale(0%);
+	filter: grayscale(0%);
+}
+
+.seccion-2 {
+	margin:0;
+}
+
+
+
+
+/*
+header {
+	background-color: #ff875f;
+	color: #fff;
+}
+
+header .container {
+	width: 100%;
+	padding: 0;
+}
+/*
+.primero .love {
+	padding-right: 10em;
+	text-align: right;
+}*/
+/*
+.container .uno {
+	object-fit: cover;
+		padding-top: 1em;
+		padding-left: 0;
+		padding-bottom: 1em;
+		filter: grayscale(100%);+
+		padding-right: 0
+		-webkit-filter: grayscale(100%);
+		filter: grayscale(100%);
+}
+
+.uno:hover {
+	filter: grayscale(0%);
+	-webkit-filter: grayscale(0%);
+	filter: grayscale(0%);
+}
+
+.uno {
+	height: 30em;
+	width: 100%;
+}
+
+.panda-uno {
+	background-color: #ff875f;
+}
+
+.tercero .row{
+  background-color: #93F082;
+}
+
+.tercero .love-3 {
+	text-align: center;
+  background-color: #ff875f; 
+  color: #fff;
+} 
+
+section .container .cuatro{
+	width: 100%;
+	padding: 0;
+}
+
+.container .dos{
+  object-fit: cover;
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.dos:hover {
+  filter: grayscale(0%);
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+
+.dos {
+  height: 35em; 
+}
+
+.panda-dos {
+	background-color: #ff875f;
+	width: 100%;
+}
